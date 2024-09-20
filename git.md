@@ -17,7 +17,7 @@ git init
 => node_modules có thể cài lại thông qua câu lệnh : npm i
 
 
-## file .gitignore quy định những thư mục hay file không được phép đẩy lên repo remote
+## file .git ignore quy định những thư mục hay file không được phép đẩy lên repo remote
 => .gitignore nằm ở thư mục root
 
 ## git status
@@ -36,6 +36,8 @@ git init
 ## git add <đường dẫn file>
 => Chỉ thêm file cụ thể vào trong staging
 
+
+## demo git confict
 ## working dictionary (file màu đỏ)
 
 ## staging (file màu xanh)
@@ -92,4 +94,13 @@ git init
 
 ## git switch <tên nhánh>
 => Chuyển qua nhánh <tên nhánh>
+
+## git pull or git pull --no-ff
+=> pull code ở repo remote về local
+
+
+## git clone <url repo>
+=> Dùng để clone source code của 1 repo bất kỳ
+
+
 
