@@ -93,3 +93,12 @@ git init
 ## git switch <tên nhánh>
 => Chuyển qua nhánh <tên nhánh>
 
+## git pull or git pull --no-ff
+=> pull code ở repo remote về local
+
+
+## git clone <url repo>
+=> Dùng để clone source code của 1 repo bất kỳ
+
+
+
