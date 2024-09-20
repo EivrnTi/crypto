@@ -100,5 +100,10 @@ git init
 ## git clone <url repo>
 => Dùng để clone source code của 1 repo bất kỳ
 
+## git merge <tên branch>
+=> merge <branch> vào branch hiện tại
++ TH1: merge thành công nếu không có bất kỳ xung đột (conflict)
++ TH2: bị xung đột => giải quyết conflict => git add => git commit
+=> Nếu mege code mà bị conflict => có thể hủy git merge thông qua lệnh: git merge -abort
 
 
