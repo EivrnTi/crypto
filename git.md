@@ -35,3 +35,6 @@ git init
 
 ## git add <đường dẫn file>
 => Chỉ thêm file cụ thể vào trong staging
+
+
+## demo git confict
