@@ -3,7 +3,7 @@
 git init
 => nhánh chính: master
 
-## git int -b main
+## git init -b main
 
 => Tạo repo local vs nhánh chính có tên main
 
@@ -17,8 +17,8 @@ git init
 => node_modules có thể cài lại thông qua câu lệnh : npm i
 
 
-## file .git ignore quy định những thư mục hay file không được phép đẩy lên repo remote
-=> .gitignore nằm ở thư mục root
+## file .gitignore quy định những thư mục hay file không được phép đẩy lên repo remote
+=> .git ignore nằm ở thư mục root
 
 ## git status
 => Kiểm tra sự thay đổi của các file trong dự án
